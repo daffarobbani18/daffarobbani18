@@ -1,0 +1,24 @@
+name: Update GitHub Activity
+
+on:
+  schedule:
+    - cron: '*/30 * * * *' # Berjalan setiap 30 menit
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Update-activity-grid
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+      - uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          # Pastikan ini menunjuk ke branch default Anda (biasanya main atau master)
+          COMMIT_MSG: 'Chore: Update GitHub activity grid'
+          COMMIT_NAME: 'github-actions[bot]'
+          COMMIT_EMAIL: 'actions@github.com'
+          TARGET_FILE: 'github-activity-grid.svg'
