@@ -1,4 +1,3 @@
-
 <div align="center"># 🕶️ 0xD4FF4 — Full-Stack Developer  ### *"Accessing systems... Loading skills... Breaching limits."*
 
 <img width="720" src="https://raw.githubusercontent.com/Akshay090/svg-animation-assets/main/matrix-rain.svg"/>
