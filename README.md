@@ -51,9 +51,9 @@
         <br>
         <a href="https://github.com/daffarobbani18" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
         <br>
-        <a href="mailto:d.robbani18@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+        <a href="mailto:[EMAIL-ANDA@gmail.com]" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
         <br>
-        <a href="https://daffaspace.me.com" target="_blank"><img src="https://img.shields.io/badge/Website-4A90E2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
+        <a href="https://[WEBSITE-PRIBADI-ANDA].com" target="_blank"><img src="https://img.shields.io/badge/Website-4A90E2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
       </p>
 
       <h3 align="left">🛠️ Tech Stack</h3>
@@ -80,7 +80,7 @@
       
       <h3 align="left">🏆 Trofi GitHub</h3>
       <p align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=USERNAMEANDA&theme=tokyonight&row=2&column=3&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+        <img src="https://github-profile-trophy.vercel.app/?username=daffarobbani18&theme=tokyonight&row=2&column=3&margin-w=15&margin-h=15" alt="GitHub Trophies" />
       </p>
 
     </td>
@@ -90,14 +90,14 @@
 <h2 align="center">⚡ Aktivitas GitHub Terbaru</h2>
 
 <p align="center">
-  <img src="https://github.com/USERNAMEANDA/USERNAMEANDA/blob/main/github-activity-grid.svg" alt="Aktivitas GitHub Terbaru"/>
+  <img src="https://github.com/daffarobbani18/daffarobbani18/blob/main/github-activity-grid.svg" alt="Aktivitas GitHub Terbaru"/>
 </p>
 
 <h2 align="center">📌 Proyek Unggulan</h2>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAMEANDA&repo=NAMA-REPO-1&theme=tokyonight" alt="Proyek Unggulan 1" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAMEANDA&repo=NAMA-REPO-2&theme=tokyonight" alt="Proyek Unggulan 2" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=daffarobbani18&repo=NAMA-REPO-1&theme=tokyonight" alt="Proyek Unggulan 1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=daffarobbani18&repo=NAMA-REPO-2&theme=tokyonight" alt="Proyek Unggulan 2" />
 </p>
 
 <h2 align="center">🐍 Kontribusi Saya (Animasi Ular)</h2>
