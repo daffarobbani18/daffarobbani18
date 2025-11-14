@@ -1,4 +1,3 @@
-README.md — Hacker Dark Matrix Edition (Final)
 
 <div align="center"># 🕶️ 0xD4FF4 — Full-Stack Developer  ### *"Accessing systems... Loading skills... Breaching limits."*
 
