@@ -1,53 +1,60 @@
-<!-- HEADER: DEVELOPER × MUSICIAN -->
 <div align="center">
 
-# 🎸⚡ Developer × Musician  
-### *Crafting Code & Sound — Full-Stack • DevOps • Cybersecurity • Infrastructure*
+# ⚡ Hi, I'm a Full-Stack Developer  
+### *Building scalable systems with code, infrastructure, and pure curiosity.*
 
-<!-- ANIMATED NEON TITLE -->
-<img width="600" src="https://raw.githubusercontent.com/Anish-M-code/anim-assets/main/neon-dev-title.svg"/>
+<!-- MATRIX RAIN ANIMATION -->
+<img width="700" src="https://raw.githubusercontent.com/Akshay090/svg-animation-assets/main/matrix-rain.svg"/>
 
-<!-- FLOATING GUITAR -->
-<img height="220" src="https://raw.githubusercontent.com/Anish-M-code/anim-assets/main/floating-guitar.svg"/>
+<!-- FLOATING TECH ORB -->
+<img height="230" src="https://raw.githubusercontent.com/Anish-M-code/anim-assets/main/tech-orb-float.svg"/>
 
-<!-- SOUND WAVEFORM -->
-<img width="500" src="https://raw.githubusercontent.com/Akshay090/svg-animation-assets/main/sound-wave.svg"/>
+<!-- CIRCUIT ANIMATION -->
+<img width="500" src="https://raw.githubusercontent.com/Akshay090/svg-animation-assets/main/circuit-animated.svg"/>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me  
 
 Saya seorang **Full-Stack Developer** yang berfokus pada ekosistem **JavaScript & TypeScript**.  
-💻 Saat ini mengerjakan **aplikasi web full-stack** dan mulai mendalami **pengembangan mobile**.
+Sedang mengerjakan **aplikasi web full-stack** dan belajar **pengembangan mobile**.
 
-⚙️ Di sisi infrastruktur, saya memperdalam **DevOps**, mencakup:
+Di sisi **DevOps**, saya memperdalam:
 - CI/CD  
 - Docker  
 - Kubernetes  
 
-Dengan tujuan membangun sistem yang scalable, otomatis, dan stabil.
+Untuk membangun infrastruktur otomatis, stabil, dan mudah di-scale.
 
-🛡️ Saya juga mempelajari **Cybersecurity** untuk meningkatkan keamanan aplikasi, server, dan jaringan.
+Dalam ranah **Cybersecurity**, saya fokus pada pengamanan:
+- aplikasi,  
+- server,  
+- dan jaringan.
 
-🌐 Ketertarikan saya mencakup **Arsitektur Jaringan**, sistem terdistribusi, dan keamanan infrastruktur modern.
+Saya juga tertarik pada **Arsitektur Jaringan**, sistem terdistribusi, serta keamanan infrastruktur modern.
 
 ---
 
-## 🎸 My Developer × Musician Identity
+## 🚀 Animated Tech Identity
 
 <div align="center">
 
-<img height="230" src="https://raw.githubusercontent.com/KarthikNayak024/animated-svg-icons/master/linux-tux.svg"/>
-<img height="210" src="https://raw.githubusercontent.com/Akshay090/svg-animation-assets/main/equalizer-bars.svg"/>
-<img height="210" src="https://raw.githubusercontent.com/Akshay090/svg-animation-assets/main/3d-cube-rotate.svg"/>
+<!-- ROTATING CUBE -->
+<img height="200" src="https://raw.githubusercontent.com/Akshay090/svg-animation-assets/main/3d-cube-rotate.svg"/>
+
+<!-- NEON SCANNER -->
+<img height="240" src="https://raw.githubusercontent.com/Akshay090/svg-animation-assets/main/neon-scan.svg"/>
+
+<!-- GEOMETRIC SHAPES ANIMATION -->
+<img height="210" src="https://raw.githubusercontent.com/Akshay090/svg-animation-assets/main/geo-shapes-floating.svg"/>
 
 </div>
 
 ---
 
-## ⚡ Tech Stack
+## ⚡ Tech Stack  
 ```txt
 Full-Stack: JavaScript, TypeScript, Node.js, React, Next.js  
 Mobile Dev: React Native  
