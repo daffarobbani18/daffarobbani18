@@ -1,56 +1,115 @@
-<!-- HEADER: DEVELOPER × MUSICIAN -->
-<div align="center">
+<p align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXlsaXNkNnduN2FsdXhyN2RwZzFqNnRnOTRqdXBudzJ6cTE4c2JybiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1JjnyoviqZ21s1tbs/giphy.gif" width="100%" alt="Tech Banner"/>
+</p>
 
-# 🎸⚡ Developer × Musician  
-### *Crafting Code & Sound — Full-Stack • DevOps • Cybersecurity • Infrastructure*
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=9D81C7&center=true&vCenter=true&width=500&lines=Hai!+Saya+[NAMA+ANDA];Full-Stack+Developer+(Next.js+%2B+Nest.js);DevOps+%26+Cybersecurity+Enthusiast;Network+Engineer" alt="Animasi Teks Mengetik">
+  </a>
+</p>
 
-<!-- ANIMATED NEON TITLE -->
-<img width="600" src="https://raw.githubusercontent.com/Anish-M-code/anim-assets/main/neon-dev-title.svg"/>
+<table width="100%" border="0" style="border:none;">
+  <tr>
+    <td width="60%" valign="top">
+      
+      <h3 align="left">👋 Tentang Saya</h3>
+      <p align="left">
+        Saya seorang developer yang antusias dengan infrastruktur, keamanan, dan kode yang efisien.
+        <br><br>
+        💻  Membangun aplikasi web modern dengan <strong>React/Next.js</strong> & <strong>Nest.js</strong>.
+        <br>
+        ☁️  Mendalami <strong>DevOps</strong> untuk otomatisasi CI/CD, Docker, dan Kubernetes.
+        <br>
+        🛡️  Belajar <strong>Cybersecurity</strong> untuk mengamankan aplikasi dan jaringan.
+        <br>
+        🌐  Memiliki fondasi kuat di <strong>Jaringan Komputer</strong> (TCP/IP, Routing).
+        <br><br>
+        💬  Tanya saya tentang <strong>JavaScript/TypeScript</strong> atau <strong>Konsep Jaringan</strong>!
+      </p>
 
-<!-- FLOATING GUITAR -->
-<img height="220" src="https://raw.githubusercontent.com/Anish-M-code/anim-assets/main/floating-guitar.svg"/>
+      <h3 align="left">📊 Statistik GitHub</h3>
+      <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=USERNAMEANDA&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10&include_all_commits=true&count_private=true" alt="Statistik GitHub" width="400"/>
+        <br>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAMEANDA&layout=compact&theme=tokyonight&border_radius=10&langs_count=8" alt="Bahasa Teratas" width="400"/>
+        <br>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAMEANDA&theme=tokyonight&border_radius=10" alt="Streak Stats" width="400"/>
+      </p>
 
-<!-- SOUND WAVEFORM -->
-<img width="500" src="https://raw.githubusercontent.com/Akshay090/svg-animation-assets/main/sound-wave.svg"/>
+      <h3 align="left">☕ WakaTime (Jam Ngoding)</h3>
+      <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=USERNAME_WAKATIME&theme=tokyonight&layout=compact" alt="WakaTime Stats" width="400"/>
+      </p>
 
-</div>
+    </td>
+    
+    <td width="40%" valign="top">
+      
+      <h3 align="left">🔗 Kontak & Sosial Media</h3>
+      <p align="left">
+        <a href="https://www.linkedin.com/in/[USERNAME-LINKEDIN-ANDA]" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+        <br>
+        <a href="https://github.com/[USERNAME-GITHUB-ANDA]" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+        <br>
+        <a href="mailto:[EMAIL-ANDA@gmail.com]" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+        <br>
+        <a href="https://[WEBSITE-PRIBADI-ANDA].com" target="_blank"><img src="https://img.shields.io/badge/Website-4A90E2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
+      </p>
 
----
+      <h3 align="left">🛠️ Tech Stack</h3>
+      
+      <strong>Frontend:</strong>
+      <p align="left">
+        <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,tailwind,redux" alt="Frontend Skills"/>
+      </p>
+      
+      <strong>Backend:</strong>
+      <p align="left">
+        <img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,postgresql,mongodb,prisma" alt="Backend Skills"/>
+      </p>
+      
+      <strong>DevOps & Infrastruktur:</strong>
+      <p align="left">
+        <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,aws,gcp,git,githubactions" alt="DevOps Skills"/>
+      </p>
+      
+      <strong>Cybersecurity & Networking:</strong>
+      <p align="left">
+        <img src="https://skillicons.dev/icons?i=kali,wireshark,linux,bash,postman" alt="Security Skills"/>
+      </p>
+      
+      <h3 align="left">🏆 Trofi GitHub</h3>
+      <p align="center">
+        <img src="https://github-profile-trophy.vercel.app/?username=USERNAMEANDA&theme=tokyonight&row=2&column=3&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+      </p>
 
-## 👨‍💻 About Me
+    </td>
+  </tr>
+</table>
 
-Saya seorang **Full-Stack Developer** yang berfokus pada ekosistem **JavaScript & TypeScript**.  
-💻 Saat ini mengerjakan **aplikasi web full-stack** dan mulai mendalami **pengembangan mobile**.
+<h2 align="center">⚡ Aktivitas GitHub Terbaru</h2>
 
-⚙️ Di sisi infrastruktur, saya memperdalam **DevOps**, mencakup:
-- CI/CD  
-- Docker  
-- Kubernetes  
+<p align="center">
+  <img src="https://github.com/USERNAMEANDA/USERNAMEANDA/blob/main/github-activity-grid.svg" alt="Aktivitas GitHub Terbaru"/>
+</p>
 
-Dengan tujuan membangun sistem yang scalable, otomatis, dan stabil.
+<h2 align="center">📌 Proyek Unggulan</h2>
 
-🛡️ Saya juga mempelajari **Cybersecurity** untuk meningkatkan keamanan aplikasi, server, dan jaringan.
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAMEANDA&repo=NAMA-REPO-1&theme=tokyonight" alt="Proyek Unggulan 1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAMEANDA&repo=NAMA-REPO-2&theme=tokyonight" alt="Proyek Unggulan 2" />
+</p>
 
-🌐 Ketertarikan saya mencakup **Arsitektur Jaringan**, sistem terdistribusi, dan keamanan infrastruktur modern.
+<h2 align="center">🐍 Kontribusi Saya (Animasi Ular)</h2>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/USERNAMEANDA/USERNAMEANDA/output/github-contribution-grid-snake-dark.svg" alt="Snake Contribution Graph" />
+</p>
 
-## 🎸 My Developer × Musician Identity
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Krafs/Krafs/main/assets/images/line-break.svg" width="100%">
+</p>
 
-<div align="center">
-
-<img height="230" src="https://raw.githubusercontent.com/KarthikNayak024/animated-svg-icons/master/linux-tux.svg"/>
-<img height="210" src="https://raw.githubusercontent.com/Akshay090/svg-animation-assets/main/equalizer-bars.svg"/>
-<img height="210" src="https://raw.githubusercontent.com/Akshay090/svg-animation-assets/main/3d-cube-rotate.svg"/>
-
-</div>
-
----
-
-## ⚡ Tech Stack
-```txt
-Full-Stack: JavaScript, TypeScript, Node.js, React, Next.js  
-Mobile Dev: React Native  
-DevOps: Docker, Kubernetes, CI/CD  
-Cybersecurity: Network Security, Application Security  
-Infrastructure: Linux, Cloud Architecture, Distributed Systems  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=USERNAMEANDA&label=PROFILE+VIEWS&style=flat-square&color=blueviolet" alt="Profile Views"/>
+</p>
