@@ -1,63 +1,49 @@
-<div align="center">
+README.md — Hacker Dark Matrix Edition (Final)
 
-# ⚡ Hi, I'm a Full-Stack Developer  
-### *Building scalable systems with code, infrastructure, and pure curiosity.*
+<div align="center"># 🕶️ 0xD4FF4 — Full-Stack Developer  ### *"Accessing systems... Loading skills... Breaching limits."*
 
-<!-- MATRIX RAIN ANIMATION -->
-<img width="700" src="https://raw.githubusercontent.com/Akshay090/svg-animation-assets/main/matrix-rain.svg"/>
+<img width="720" src="https://raw.githubusercontent.com/Akshay090/svg-animation-assets/main/matrix-rain.svg"/>
 
-<!-- FLOATING TECH ORB -->
-<img height="230" src="https://raw.githubusercontent.com/Anish-M-code/anim-assets/main/tech-orb-float.svg"/>
+<img width="600" src="https://raw.githubusercontent.com/Akshay090/svg-animation-assets/main/hacker-terminal.svg"/>
 
-<!-- CIRCUIT ANIMATION -->
-<img width="500" src="https://raw.githubusercontent.com/Akshay090/svg-animation-assets/main/circuit-animated.svg"/>
+<img height="230" src="https://raw.githubusercontent.com/Akshay090/svg-animation-assets/main/cyber-rotor.svg"/></div>
 
-</div>
+---## 👨‍💻 About Me  
+Saya seorang **Full-Stack Developer** yang fokus pada **JavaScript & TypeScript**.  
+Saat ini mengembangkan **aplikasi web full-stack**, serta mempelajari **mobile development**.
 
----
+Di sisi **DevOps**, saya memperdalam:- CI/CD pipelines  - Docker & Containerization  - Kubernetes Orchestration  
 
-## 👨‍💻 About Me  
+Untuk menciptakan sistem yang scalable, predictable, dan otomatis.
 
-Saya seorang **Full-Stack Developer** yang berfokus pada ekosistem **JavaScript & TypeScript**.  
-Sedang mengerjakan **aplikasi web full-stack** dan belajar **pengembangan mobile**.
+Dalam ranah **Cybersecurity**, fokus saya:- Application Security  - Server Hardening  - Network Defense  
 
-Di sisi **DevOps**, saya memperdalam:
-- CI/CD  
-- Docker  
-- Kubernetes  
+Saya juga tertarik pada **Arsitektur Jaringan** dan sistem terdistribusi modern.
 
-Untuk membangun infrastruktur otomatis, stabil, dan mudah di-scale.
+---## ⚡ Identity Layer — H4CK3R Mode<div align="center">
 
-Dalam ranah **Cybersecurity**, saya fokus pada pengamanan:
-- aplikasi,  
-- server,  
-- dan jaringan.
+<img height="280" src="https://raw.githubusercontent.com/Akshay090/svg-animation-assets/main/grid-scan.svg"/>
 
-Saya juga tertarik pada **Arsitektur Jaringan**, sistem terdistribusi, serta keamanan infrastruktur modern.
+<img height="220" src="https://raw.githubusercontent.com/Akshay090/svg-animation-assets/main/radar-sweep.svg"/>
 
----
+<img height="210" src="https://raw.githubusercontent.com/Akshay090/svg-animation-assets/main/holo-cube.svg"/></div>
 
-## 🚀 Animated Tech Identity
-
-<div align="center">
-
-<!-- ROTATING CUBE -->
-<img height="200" src="https://raw.githubusercontent.com/Akshay090/svg-animation-assets/main/3d-cube-rotate.svg"/>
-
-<!-- NEON SCANNER -->
-<img height="240" src="https://raw.githubusercontent.com/Akshay090/svg-animation-assets/main/neon-scan.svg"/>
-
-<!-- GEOMETRIC SHAPES ANIMATION -->
-<img height="210" src="https://raw.githubusercontent.com/Akshay090/svg-animation-assets/main/geo-shapes-floating.svg"/>
-
-</div>
-
----
-
-## ⚡ Tech Stack  
-```txt
+---## 🧬 Tech Stack (Encrypted)```txt
 Full-Stack: JavaScript, TypeScript, Node.js, React, Next.js  
 Mobile Dev: React Native  
 DevOps: Docker, Kubernetes, CI/CD  
-Cybersecurity: Network Security, Application Security  
+Cybersecurity: Application Security, Network Defense  
 Infrastructure: Linux, Cloud Architecture, Distributed Systems  
+🛰️ Real-Time System Panels
+
+<div align="center">
+<img width="430" src="[https://raw.githubusercontent.com/lowlighter/metrics/master/github-metrics.svg](https://raw.githubusercontent.com/lowlighter/metrics/master/github-metrics.svg)" />
+<img width="430" src="[https://github-readme-stats.vercel.app/api?username=daffarobbani18&show_icons=true&theme=chartreuse-dark](https://github-readme-stats.vercel.app/api?username=daffarobbani18&show_icons=true&theme=chartreuse-dark)" />
+<img width="400" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=daffarobbani18&layout=compact&theme=chartreuse-dark](https://github-readme-stats.vercel.app/api/top-langs/?username=daffarobbani18&layout=compact&theme=chartreuse-dark)" />
+</div>🛡️ System Integrity Animation
+
+<div align="center">
+<img width="600" src="[https://raw.githubusercontent.com/Akshay090/svg-animation-assets/main/firewall-scan.svg](https://raw.githubusercontent.com/Akshay090/svg-animation-assets/main/firewall-scan.svg)"/>
+<img width="600" src="[https://raw.githubusercontent.com/Akshay090/svg-animation-assets/main/code-stream.svg](https://raw.githubusercontent.com/Akshay090/svg-animation-assets/main/code-stream.svg)"/>
+</div>💀 H4XOR Log
+“Systems aren’t safe. Some are just not attacked yet.”
