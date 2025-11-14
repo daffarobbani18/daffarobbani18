@@ -29,11 +29,11 @@
 
       <h3 align="left">📊 Statistik GitHub</h3>
       <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=USERNAMEANDA&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10&include_all_commits=true&count_private=true" alt="Statistik GitHub" width="400"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=daffarobbani18&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10&include_all_commits=true&count_private=true" alt="Statistik GitHub" width="400"/>
         <br>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAMEANDA&layout=compact&theme=tokyonight&border_radius=10&langs_count=8" alt="Bahasa Teratas" width="400"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daffarobbani18&layout=compact&theme=tokyonight&border_radius=10&langs_count=8" alt="Bahasa Teratas" width="400"/>
         <br>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAMEANDA&theme=tokyonight&border_radius=10" alt="Streak Stats" width="400"/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=daffarobbani18&theme=tokyonight&border_radius=10" alt="Streak Stats" width="400"/>
       </p>
 
       <h3 align="left">☕ WakaTime (Jam Ngoding)</h3>
@@ -47,13 +47,13 @@
       
       <h3 align="left">🔗 Kontak & Sosial Media</h3>
       <p align="left">
-        <a href="https://www.linkedin.com/in/[USERNAME-LINKEDIN-ANDA]" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+        <a href="https://www.linkedin.com/in/daffa-robbani-584780371" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
         <br>
-        <a href="https://github.com/[USERNAME-GITHUB-ANDA]" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+        <a href="https://github.com/daffarobbani18" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
         <br>
-        <a href="mailto:[EMAIL-ANDA@gmail.com]" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+        <a href="mailto:d.robbani18@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
         <br>
-        <a href="https://[WEBSITE-PRIBADI-ANDA].com" target="_blank"><img src="https://img.shields.io/badge/Website-4A90E2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
+        <a href="https://daffaspace.me.com" target="_blank"><img src="https://img.shields.io/badge/Website-4A90E2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
       </p>
 
       <h3 align="left">🛠️ Tech Stack</h3>
@@ -103,7 +103,7 @@
 <h2 align="center">🐍 Kontribusi Saya (Animasi Ular)</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/USERNAMEANDA/USERNAMEANDA/output/github-contribution-grid-snake-dark.svg" alt="Snake Contribution Graph" />
+  <img src="https://raw.githubusercontent.com/daffarobbani18/daffarobbani18/output/github-contribution-grid-snake-dark.svg" alt="Snake Contribution Graph" />
 </p>
 
 <p align="center">
@@ -111,5 +111,5 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=USERNAMEANDA&label=PROFILE+VIEWS&style=flat-square&color=blueviolet" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=daffarobbani18&label=PROFILE+VIEWS&style=flat-square&color=blueviolet" alt="Profile Views"/>
 </p>
