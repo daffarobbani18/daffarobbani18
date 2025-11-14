@@ -6,7 +6,8 @@
 
 <img height="230" src="https://raw.githubusercontent.com/Akshay090/svg-animation-assets/main/cyber-rotor.svg"/></div>
 
----## 👨‍💻 About Me  
+---
+## 👨‍💻 About Me  
 Saya seorang **Full-Stack Developer** yang fokus pada **JavaScript & TypeScript**.  
 Saat ini mengembangkan **aplikasi web full-stack**, serta mempelajari **mobile development**.
 
@@ -18,7 +19,8 @@ Dalam ranah **Cybersecurity**, fokus saya:- Application Security  - Server Harde
 
 Saya juga tertarik pada **Arsitektur Jaringan** dan sistem terdistribusi modern.
 
----## ⚡ Identity Layer — H4CK3R Mode<div align="center">
+---
+## ⚡ Identity Layer — H4CK3R Mode<div align="center">
 
 <img height="280" src="https://raw.githubusercontent.com/Akshay090/svg-animation-assets/main/grid-scan.svg"/>
 
@@ -26,7 +28,9 @@ Saya juga tertarik pada **Arsitektur Jaringan** dan sistem terdistribusi modern.
 
 <img height="210" src="https://raw.githubusercontent.com/Akshay090/svg-animation-assets/main/holo-cube.svg"/></div>
 
----## 🧬 Tech Stack (Encrypted)```txt
+---
+## 🧬 Tech Stack (Encrypted)
+```txt
 Full-Stack: JavaScript, TypeScript, Node.js, React, Next.js  
 Mobile Dev: React Native  
 DevOps: Docker, Kubernetes, CI/CD  
