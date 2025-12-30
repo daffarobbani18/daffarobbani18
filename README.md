@@ -19,6 +19,11 @@
   <img src="https://raw.githubusercontent.com/daffarobbani18/daffarobbani18/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
+<!-- Animated GIF Stats -->
+<div align="center">
+  <img src="https://github.com/daffarobbani18/daffarobbani18/blob/output/github-user-contribution.svg" alt="Contribution Stats" />
+</div>
+
 <br/>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
@@ -136,6 +141,11 @@ const daffa = {
 
 ## 📊 GitHub Analytics
 
+<!-- Animated Stats Cards -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daffarobbani18&theme=radical" alt="Profile Summary"/>
+</p>
+
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=daffarobbani18&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" alt="GitHub Stats"/>
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=daffarobbani18&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6D00&currStreakLabel=00D9FF" alt="GitHub Streak"/>
@@ -146,9 +156,16 @@ const daffa = {
   <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=daffarobbani18&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="Contribution Graph"/>
 </p>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daffarobbani18&theme=radical" alt="Profile Summary"/>
-</div>
+<!-- Additional Animated Cards -->
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daffarobbani18&theme=radical" alt="Repos per Language"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daffarobbani18&theme=radical" alt="Most Commit Language"/>
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=daffarobbani18&theme=radical" alt="Stats"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=daffarobbani18&theme=radical" alt="Productive Time"/>
+</p>
 
 ---
 
@@ -167,10 +184,41 @@ const daffa = {
 
 ---
 
+## 🎵 Spotify Playing
+
+<div align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=00d9ff&bar_color_cover=false" alt="Spotify Now Playing"/>
+</div>
+
+---
+
+## 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## 💻 Weekly Coding Stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=daffarobbani&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&layout=compact" alt="WakaTime Stats"/>
+</div>
+
+---
+
 ## 📈 Contribution Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=daffarobbani18&custom_title=Daffa's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=00D9FF&area=true&hide_border=true" alt="Activity Graph"/>
+</div>
+
+<!-- 3D Contribution Graph -->
+<div align="center">
+  <img src="https://github-profile-3d-contrib.vercel.app/api?username=daffarobbani18&theme=radical&bg_color=0D1117" alt="3D Contribution Graph"/>
 </div>
 
 ---
